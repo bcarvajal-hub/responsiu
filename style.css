@@ -1,6 +1,10 @@
+html{
+    font-size: 16px;
+}
 body{
-    font-size: 24px;
+    font-size:2rem;
     font-family: Arial, Helvetica, sans-serif;
+    
 }
 h1{
     font-family: "Fascinate", system-ui;
